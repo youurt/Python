@@ -1,0 +1,4 @@
+In Python you can write files.
+In Python you can load files.
+In Python you can make tests.
+In Python you can make random numbers.
